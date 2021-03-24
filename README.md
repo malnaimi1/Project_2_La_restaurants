@@ -50,3 +50,7 @@ Yelp API
 # Challenges
 -	Limited access to Yelp API
 -	Results didn’t always match, therefore created a function to match results
+
+# ERD
+![image](https://user-images.githubusercontent.com/75353991/112252707-d5dcfc80-8c1a-11eb-8222-72e99afcdc29.png)
+
