@@ -3,9 +3,13 @@
 ![image](https://user-images.githubusercontent.com/75353991/112249468-133e8b80-8c15-11eb-9d8e-07e9de2e6f7a.png)
 ## Hungry Coyotes
 Carolina Ibarra
+
 Mohammed Alnaimi
+
 Collins Tweneboah
-Rasheed (Hola) Omolabi	
+
+Rasheed (Hola) Omolabi
+
 # Project Description
 Gathered restaurant  data from LA county and yelp API. The data was transformed and loaded into a database.The purpose of this project is to understand the relationship between inspection and yelp ratings. A Data Warehouse was created to show the detailed information of yelp rating and LA county inspection rating to enable analysts to make business inferences and insight citing ratings, location, name and reviews. The data from yelp and LA county were extracted and manipulated without distorting the authenticity of the data and loaded into a database for effective querying and data analysis.
 # Libraries
@@ -23,6 +27,7 @@ Socrata Open Data API (SODA)- LA County restaurant data extracted from API and s
 - COUNTY OF LOS ANGELES RESTAURANT AND MARKET INSPECTIONS | LAC Open Data (lacounty.gov)
 - https://data.lacounty.gov/Health/COUNTY-OF-LOS-ANGELES-RESTAURANT-AND-MARKET-VIOLAT/8jyd-4pv9
 Yelp API
+- Yelp's API exposes search to 3rd party developers.
 - https://www.yelp.com/developers/documentation/v3/business_search
 ## Process
 # Extract:
@@ -45,8 +50,3 @@ Yelp API
 # Challenges
 -	Limited access to Yelp API
 -	Results didn’t always match, therefore created a function to match results
-(109 kB)
-https://user-images.githubusercontent.com/75353991/112249468-133e8b80-8c15-11eb-9d8e-07e9de2e6f7a.png
-yelp.comyelp.com
-Business Search Endpoint - Yelp Fusion
-Yelp's API exposes search to 3rd party developers.
